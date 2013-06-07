@@ -1,4 +1,6 @@
-This is a sample rails application that I followed to learn more about ruby on rails from scratch
+This is a sample rails application made by following the tutorial.
+
+Using Ruby on Rails
 
 Attributed to:
 http://ruby.railstutorial.org/chapters
